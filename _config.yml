@@ -1,8 +1,8 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: The Beresford Diet
+description: One man, one mighty passion.
+meta_description: "One man, one mighty passion."
 
-aboutPage: true
+aboutPage: false
 
 markdown: kramdown
 highlighter: rouge
@@ -16,9 +16,9 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            ''
+author:         'The Beresford Diet'
+#authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
 
