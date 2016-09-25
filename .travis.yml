@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.0
-script: bundle exec jekyll build
+script: bundle exec jekyll build && find .
 branches:
   only:
     - master
